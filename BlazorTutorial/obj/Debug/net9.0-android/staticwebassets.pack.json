@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorTutorial.styles.css",
+      "PackagePath": "staticwebassets\\BlazorTutorial.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\hangman.png",
+      "PackagePath": "staticwebassets\\Images\\hangman.png"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\home-background-1.png",
+      "PackagePath": "staticwebassets\\Images\\home-background-1.png"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\home-background-2.png",
+      "PackagePath": "staticwebassets\\Images\\home-background-2.png"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\home-background.png",
+      "PackagePath": "staticwebassets\\Images\\home-background.png"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.BlazorTutorial.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.BlazorTutorial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.BlazorTutorial.props",
+      "PackagePath": "build\\BlazorTutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.BlazorTutorial.props",
+      "PackagePath": "buildMultiTargeting\\BlazorTutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.BlazorTutorial.props",
+      "PackagePath": "buildTransitive\\BlazorTutorial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

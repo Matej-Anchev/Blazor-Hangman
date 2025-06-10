@@ -1,0 +1,11 @@
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\Images\hangman-home-background.jpg
+wwwroot\Images\hangman.png
+wwwroot\Images\lightbulb.jpg
+wwwroot\index.html
+wwwroot\css\app.css
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\index.html
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\css\app.css

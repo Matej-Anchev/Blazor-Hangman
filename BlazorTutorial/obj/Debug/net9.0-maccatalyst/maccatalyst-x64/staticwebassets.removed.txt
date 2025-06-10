@@ -1,0 +1,2 @@
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\Images\hangman-home-background.jpg
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\Images\lightbulb.jpg

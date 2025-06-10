@@ -1,0 +1,54 @@
+﻿@using BlazorTutorial.Resources.Categories
+
+@if (IsVisible)
+{
+    <div class="modal-backdrop">
+        <div class="modal-content">
+            <h3>Select Category:</h3>
+            <ul>
+                @foreach (var category in WordRepository.GetCategoryNames())
+                {
+                    <li>
+                        <button class="categoryButtons" @onclick="() => SelectCategory(category)">@category</button>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public EventCallback<string> OnCategorySelected { get; set; }
+    [Parameter] public EventCallback OnCancel { get; set; }
+
+    public bool IsVisible { get; private set; }
+
+    // Show modal and refresh UI
+    public void Show()
+    {
+        IsVisible = true;
+        StateHasChanged();
+    }
+
+    // Hide modal and invoke cancel event
+    public void Hide()
+    {
+        IsVisible = false;
+        OnCancel.InvokeAsync();
+        StateHasChanged();
+    }
+
+    private async Task SelectCategory(string category)
+    {
+        IsVisible = false;
+        await OnCategorySelected.InvokeAsync(category);
+        StateHasChanged();
+    }
+
+    // Optional: Start modal visible by default
+    protected override void OnInitialized()
+    {
+        // Uncomment to start visible by default:
+        // Show();
+    }
+}
