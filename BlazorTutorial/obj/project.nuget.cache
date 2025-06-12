@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OQrkDVPDoOY=",
+  "dgSpecHash": "wkcyNGqT6CY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\BlazorTutorial.csproj",
+  "projectFilePath": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\BlazorTutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matej\\.nuget\\packages\\googlegson\\2.11.0.5\\googlegson.2.11.0.5.nupkg.sha512",
     "C:\\Users\\matej\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",

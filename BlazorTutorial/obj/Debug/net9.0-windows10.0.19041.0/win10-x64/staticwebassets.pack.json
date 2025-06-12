@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\BlazorTutorial.styles.css",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\BlazorTutorial.styles.css",
       "PackagePath": "staticwebassets\\BlazorTutorial.styles.css"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\hangman.png",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\Images\\hangman.png",
       "PackagePath": "staticwebassets\\Images\\hangman.png"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\home-background-1.png",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\Images\\home-background-1.png",
       "PackagePath": "staticwebassets\\Images\\home-background-1.png"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\home-background-2.png",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\Images\\home-background-2.png",
       "PackagePath": "staticwebassets\\Images\\home-background-2.png"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\Images\\home-background.png",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\Images\\home-background.png",
       "PackagePath": "staticwebassets\\Images\\home-background.png"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\matej\\source\\repos\\BlazorTutorial\\BlazorTutorial\\wwwroot\\index.html",
+      "Id": "C:\\Users\\matej\\source\\repos\\Project-github\\BlazorTutorial\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

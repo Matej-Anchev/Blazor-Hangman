@@ -1,0 +1,72 @@
+### General ###
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+**/.vscode/
+**/*.user
+**/*.suo
+**/*.userprefs
+**/packages/
+**/*.nupkg
+*.swp
+*.log
+*.cache
+*.pidb
+*.DS_Store
+Thumbs.db
+
+### .NET ###
+**/.dotnet/
+**/.toolstarget/
+**/.local/
+**/.sonarqube/
+**/artifacts/
+**/TestResults/
+**/coverage.*
+**/coverage/
+**/opencover.xml
+**/publish/
+**/appsettings.*.json
+
+### MAUI/Blazor Specific ###
+**/wwwroot/dist/
+**/wwwroot/css/scss/
+**/wwwroot/js/node_modules/
+**/wwwroot/_framework/
+**/wwwroot/_bin/
+**/wwwroot/service-worker.*
+**/wwwroot/blazor.boot.json
+**/wwwroot/blazor.webassembly.js
+**/wwwroot/blazor.server.js
+**/Platforms/**/bin/
+**/Platforms/**/obj/
+**/MauiAssets/raw/
+**/MauiAssets/fonts/
+**/MauiAssets/images/
+
+### IDE (Visual Studio/Rider/VS Code) ###
+**/.vsconfig
+**/.fleet/
+**/.idea/
+**/.history/
+**/.ionide/
+**/.vscode/settings.json
+**/.vscode/launch.json
+**/.vscode/tasks.json
+
+### OS-Specific ###
+# Windows
+[Tt]humbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.fuse_hidden*
+.directory

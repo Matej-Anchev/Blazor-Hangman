@@ -1,2 +1,6 @@
-C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\Images\hangman-home-background.jpg
-C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\Images\lightbulb.jpg
+C:\Users\matej\source\repos\Project-github\BlazorTutorial\wwwroot\Images\hangman-home-background.jpg
+C:\Users\matej\source\repos\Project-github\BlazorTutorial\wwwroot\Images\lightbulb.jpg
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\index.html
+C:\Users\matej\source\repos\BlazorTutorial\BlazorTutorial\wwwroot\css\app.css
